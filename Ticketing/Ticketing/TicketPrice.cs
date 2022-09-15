@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Ticketing
 {
-    public class TicketPrice //This is the second round comment.
+    public class TicketPrice //This is the 10% discount comment.
     {
         private int section;
         private int quantity;
